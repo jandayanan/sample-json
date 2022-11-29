@@ -1455,51 +1455,6 @@
         "id": 134,
         "firstName": "Toto",
         "lastName": "Whateveryournameis"
-      },
-      {
-        "id": 680,
-        "firstName": "Zed",
-        "lastName": "Lara"
-      },
-      {
-        "id": 208,
-        "firstName": "Luke",
-        "lastName": "Someone Last Name"
-      },
-      {
-        "id": 233,
-        "firstName": "Someone First Name",
-        "lastName": "Moliku"
-      },
-      {
-        "id": 131,
-        "firstName": "Louis",
-        "lastName": "Moliku"
-      },
-      {
-        "id": 87,
-        "firstName": "Toto",
-        "lastName": "Yoda"
-      },
-      {
-        "id": 356,
-        "firstName": "Batman",
-        "lastName": "Kyle"
-      },
-      {
-        "id": 39,
-        "firstName": "Louis",
-        "lastName": "Whateveryournameis"
-      },
-      {
-        "id": 867,
-        "firstName": "Batman",
-        "lastName": "Lara"
-      },
-      {
-        "id": 382,
-        "firstName": "Someone First Name",
-        "lastName": "Bar"
       }
     ]
   }
